@@ -1,8 +1,10 @@
-# Quizzical
+# Rahul Quizzical
 
-Welcome to Quizzical, a trivia website where knowledge meets fun!
+Welcome to Rahul Quizzical, a trivia website where knowledge meets fun!
 
-![Page screenshot](https://quizzical001.netlify.app/screenshots/page.png)
+![Page screenshot](https://quizzical001.netlify.app/screenshots/rahul.png)
+![Page screenshot](https://quizzical001.netlify.app/screenshots/image.png)
+
 
 ## Table of contents
 
@@ -12,7 +14,6 @@ Welcome to Quizzical, a trivia website where knowledge meets fun!
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
-- [Contact](#contact)
 
 ## Description
 
@@ -38,13 +39,13 @@ To run Quizzical locally, follow these steps:
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/taiwo-adewale/quizzical.git
+git clone https://github.com/rahulsamanta82/Quizzical.git
 ```
 
 ### Navigate to the project directory:
 
 ```bash
-cd quizzical
+cd Quizzical
 ```
 
 ### Install dependencies:
@@ -75,6 +76,4 @@ Contributions to Quizzical are welcome. If you'd like to contribute, please foll
 3. Make your changes, ensuring clear code and comments.
 4. Submit a pull request, describing your changes in detail.
 
-## Contact
 
-For questions, feedback, or inquiries, feel free to reach out to us at [adewaletaiwo08@gmail.com](mailto:adewaletaiwo08@gmail.com).
