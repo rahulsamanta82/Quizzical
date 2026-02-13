@@ -22,6 +22,13 @@ html {
   background-position: -135px calc(100% + 80px);
 }
 
+/* .bgContainerInner{
+  color: aquamarine;
+  grid-row: 8px;
+  hover:bg-[url('../assets/images/bg-pattern-top.svg')];
+
+} */
+
 
 .initial {
   @apply px-6 rounded-[10px] inline-block text-center min-w-[80px] border border-btnPrimary cursor-pointer hover:border-transparent hover:bg-[#D6DBF5]
