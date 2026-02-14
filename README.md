@@ -2,8 +2,9 @@
 
 Welcome to Rahul Quizzical, a trivia website where knowledge meets fun!
 
-![Page screenshot](https://quizzical001.netlify.app/screenshots/rahul.png)
-![Page screenshot](https://quizzical001.netlify.app/screenshots/image.png)
+![Page screenshot](public/screenshots/rahul.png)
+![Page screenshot](public/screenshots/image.png)
+
 
 
 ## Table of contents
